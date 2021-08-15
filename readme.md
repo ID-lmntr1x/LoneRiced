@@ -88,7 +88,7 @@ To change the theme to rofi you just need to execute this line in a terminal
 Next we move until we find the option `NORD ` and then with` Alt  +  A` save the configuration.
 
     
-###Images
+### Images
 
 Desktop:
 
