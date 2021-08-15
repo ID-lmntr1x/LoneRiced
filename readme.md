@@ -68,7 +68,7 @@ In this way we install the script  `install.sh`
 
 
 ### Manual installation
-** I. Copy all files to `$HOME/.config/`: **
+**I. Copy all files to `$HOME/.config/`:**
   
 - bspwm
 - polybar
