@@ -62,12 +62,12 @@ We use Firejail to encapsulate Firefox as the first security rule, other program
             firejail /opt/firefox/firefox      // It should change only by " Firefox "
     
     
-### Instalación Automática
+### Automatic installation
 
 In this way we install the script  `install.sh`
 
 
-### Instalación Manual
+### Manual installation
 ** I. Copy all files to `$HOME/.config/`: **
   
 - bspwm
@@ -78,7 +78,7 @@ In this way we install the script  `install.sh`
 
 **II. Copiamos la carpeta` .fonts` en `$home/`**
 
-### Cambiar de Thema a Rofi
+### Change Theme to Rofi
 To change the theme to rofi you just need to execute this line in a terminal
 
     $
