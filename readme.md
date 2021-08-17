@@ -76,7 +76,7 @@ We use Firejail to encapsulate Firefox as the first security rule, other program
 In this way we install the script  `install.sh`
 
 
-If you have problems with the bar (Incomplete or lack of icons) it is due to the lack of the font <---> You must manually copy the `.Fonts` file to `$HOME/`
+If you have problems with the bar (Incomplete or lack of icons) it is due to the lack of the font <---> You must manually copy the file `.Fonts`  to  `$HOME/`
 
 
 ### Manual installation
