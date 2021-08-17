@@ -90,6 +90,9 @@ If you have problems with the bar (Incomplete or lack of icons) it is due to the
 
 **II. Copiamos la carpeta` .fonts` en `$HOME/`**
 
+**All these steps can be performed from the default environment | In order to see the changes you must change the environment to BSPWM**
+
+
 ### Change Theme to Rofi
 To change the theme to rofi you just need to execute this line in a terminal
 
