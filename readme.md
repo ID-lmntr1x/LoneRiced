@@ -76,6 +76,9 @@ We use Firejail to encapsulate Firefox as the first security rule, other program
 In this way we install the script  `install.sh`
 
 
+If you have problems with the bar (Incomplete or lack of icons) it is due to the lack of the font <---> You must manually copy the `.Fonts` file to `$HOME/`
+
+
 ### Manual installation
 **I. Copy all files to `$HOME/.config/`:**
   
@@ -85,7 +88,7 @@ In this way we install the script  `install.sh`
 - sxhkd
 - picom
 
-**II. Copiamos la carpeta` .fonts` en `$home/`**
+**II. Copiamos la carpeta` .fonts` en `$HOME/`**
 
 ### Change Theme to Rofi
 To change the theme to rofi you just need to execute this line in a terminal
