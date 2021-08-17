@@ -8,10 +8,12 @@
 
 #### LoneRiced
 
-These are the configurations tested in Kali-linux (virtualized), It is also scalable in other distributions. The main checkpoints are present in the git dependencies. If you want, try it.
+This environment is made in [BSPWM](https://wiki.archlinux.org/title/Bspwm_(Espa%C3%B1ol)) which is a tiled window manager, the main feature is that it presents the windows as sheets of a binary file.
+
+These are the configurations tested on Kali-linux (virtualized), it is also scalable on other distributions. The main checkpoints are present in the git dependencies. The sources are open source, you can try it out at your own leisure.
 
 
-###### Nota
+###### Note:
 - All the points and configurations are customizable, according to this installation it has been compiled from different internet sources.
 
 #### 📝 Dependencies
@@ -33,7 +35,7 @@ Telegram | [Telegram-Desktop](https://blog.desdelinux.net/como-instalar-telegram
 Encapsulator| [firejail](https://github.com/netblue30/firejail)
 
 We suggest reviewing the settings and selecting what you need. These dependencies can take time but will be necessary to enjoy this environment.
-**A quick guide regardless  [Here](https://github.com/VaughnValle/blue-sky)**
+**A quick guide  [Here](https://github.com/VaughnValle/blue-sky)**
 
 
 
@@ -54,7 +56,7 @@ $cd opt/
 mv /home/lmntr1x/descargas/firefox-89.tar.bz2 .   
 ```
 Once the package is extracted we will be ready for the next step.
-###### Nota:  
+###### Note:  
 We use Firejail to encapsulate Firefox as the first security rule, other programs can also be encapsulated according to your needs. Otherwise you can skip this step and you will have to edit the file `.config/sxhkd/sxhkdrc`
 
     #Open Firefox
