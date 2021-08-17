@@ -45,7 +45,7 @@ bspc config focus_follows_pointer true
 #bspc rule -a TelegramDesktop  desktop='^4'
 #bspc rule -a Zathura          desktop='^5' state=tiled
 
-feh --bg-fill /home/lmntr1x/Descargas/screenshots/thevalley.jpg
+feh --bg-fill /home/lmntr1x/.config/screenshot/thevalley.jpg
 picom --experimental-backends &
 bspc config border_width 1.5
 xsetroot -cursor_name left_ptr &
