@@ -66,6 +66,9 @@ We use Firejail to encapsulate Firefox as the first security rule, other program
     
 ### Automatic installation
 
+- Before taking this step we must restart the machine, and change the environment from Default to BSPWM
+
+
 In this way we install the script  `install.sh`
 
 
